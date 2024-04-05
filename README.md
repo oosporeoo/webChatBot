@@ -31,16 +31,3 @@ src/
 │           └── index.html  # 聊天界面的前端页面
 └── pom.xml  # Maven项目文件
 ```
-
-## 如何运行
-克隆仓库到本地：
-```bash
-git clone https://github.com/oosporeoo/webChatBot
-```
-
-在项目根目录下，使用Maven编译并运行项目：
-```bash
-mvn spring-boot:run
-```
-
-打开浏览器访问：http://localhost:8080，开始与聊天机器人交互。
